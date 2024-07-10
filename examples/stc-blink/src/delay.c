@@ -6,7 +6,7 @@
 //#define MAIN_Fosc 5529600L    //Define the clock
 //#define MAIN_Fosc 24000000L   //Define the clock
 
-void delay_ms(unsigned char ms)
+void delay_ms(unsigned int ms)
 {
     unsigned int i;
     do
